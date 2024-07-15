@@ -1,0 +1,4 @@
+{
+  "welcome": "Bienvenue dans mon application Next.js!",
+  "description": "Ceci est un exemple d'internationalisation utilisant i18next."
+}
